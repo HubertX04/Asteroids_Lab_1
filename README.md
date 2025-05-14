@@ -1,6 +1,6 @@
 Na górze jest zdjęcie z gry, a poniżej GIF z rozgrywki
 
-Dodano:
+**Dodano:**
 - pasek HP
 - wybuch asteroid -> czerwone zanikające kółko
 - różne kształty i kolory asteroid
@@ -8,7 +8,8 @@ Dodano:
 - inny kolor pocisków - gradientowe 
 - tło zmieniające kolor + gwiazdy
 
-  Sterowanie:
+
+**Sterowanie:**
 - zmiana broni - TAB
 - restart gry - R
 - Sterowanie WASD - poruszanie statkiem
